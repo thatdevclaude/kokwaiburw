@@ -21,10 +21,10 @@ export default function Home() {
       icon: <FaUserTie size={20} className="font-bold text-white"/>, text: "KOKWAIBURW"
     },
     {
-      page: "/home/projects",
+      page: "/home/targets",
       icon: <FaProjectDiagram size={20} className="font-bold text-white"/>, text: "Intumbero"
     },
-    {page: "/home/resume", icon:  <SiReaddotcv size={20} className="font-bold text-white"/>,   text:"Vision 2050"},
+    {page: "/home/vision", icon:  <SiReaddotcv size={20} className="font-bold text-white"/>,   text:"Vision 2050"},
   ]
 
   return (
